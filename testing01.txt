@@ -1,2 +1,2 @@
-codeshare.io/5R877o
-
+Execution failed for task ':app:installDebug'.
+> com.android.builder.testing.api.DeviceException: com.android.ddmlib.InstallException: Failed to finalize session : INSTALL_FAILED_VERSION_DOWNGRADE
